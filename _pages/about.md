@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 25-year-old researcher with a solid foundation in Computer Science, where I've dived headfirst into the exciting realm of Artificial Intelligence. I possess a genuine passion for unraveling intricate questions, and my journey has taken me on a thrilling exploration of technology and innovation. Within Computer Science, I've specialized in the captivating domains of Computer Vision and Natural Language Processing. Along the way, I've skillfully crafted my expertise, deepened my understanding, and continue to be fueled by an unquenchable thirst for knowledge, always chasing the thrill of the next big discovery. I also have an open embrace for new subjects and welcome the opportunity to venture into uncharted territories beyond NLP and Computer Vision, expanding my horizons in the ever-evolving landscape of AI and Computer Science.
+I'm a 25-year-old researcher currently pursuing a master's degree in Computer Science at the University of Tehran. With a solid foundation in Computer Science, my passion for tackling intricate questions led me into the captivating realms of Artificial Intelligence. I specialize in Computer Vision and Natural Language Processing, where I've skillfully honed my expertise and deepened my understanding. Fuelled by an unquenchable thirst for knowledge, I'm always chasing the thrill of the next big discovery. Additionally, I have an open embrace for new subjects and welcome the opportunity to venture into uncharted territories, further expanding my horizons in the ever-evolving landscape of AI and Computer Science.
 
 A data-driven personal website
 ======
