@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal webpage!"
+title: "Welcome to my Virtual Home!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my Personal Page! I'm a passionate researcher with a knack for digging deep into intriguing questions. Research, for me, isn't just a job—it's a thrilling adventure. I've had the chance to explore some fascinating areas, and my journey is far from over. My quest for knowledge keeps me going, always seeking the next discovery.
+I'm a 25-year-old researcher with a solid foundation in Computer Science, where I've dived headfirst into the exciting realm of Artificial Intelligence. I possess a genuine passion for unraveling intricate questions, and my journey has taken me on a thrilling exploration of technology and innovation. Within Computer Science, I've specialized in the captivating domains of Computer Vision and Natural Language Processing. Along the way, I've skillfully crafted my expertise, deepened my understanding, and continue to be fueled by an unquenchable thirst for knowledge, always chasing the thrill of the next big discovery. I also have an open embrace for new subjects and welcome the opportunity to venture into uncharted territories beyond NLP and Computer Vision, expanding my horizons in the ever-evolving landscape of AI and Computer Science.
 
 A data-driven personal website
 ======
