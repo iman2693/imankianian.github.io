@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<audio src="resources/about.mp3" id="audio"></audio>
+<audio src="resources/AboutMe.mp3" id="audio"></audio>
 <button class="play-pause-button paused" onclick="play()" id="play">
     <i>P</i>
     <i>l</i>
