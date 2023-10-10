@@ -52,6 +52,4 @@ Background
 
 Research Field and Interest
 ======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-
+My major research field is medical image analysis and other computer vision tasks like video and image saliency prediction. I really like to work on applications of computer vision in the Interdisciplinary fields. I also have been interested in face recognition and object detection fields since I was studying for my bachelor's degree. Unfortunately, Although I really like to research new areas and aspects of computer vision, I had limited time and I could not broaden my horizons in other topics. But I am not tired or hopeless.I have a dream and ambition to make my experiences wider and deeper. I also really like to work on the combination of Natural Language Processing (NLP) with CV, like OCR and handwriting recognition.
