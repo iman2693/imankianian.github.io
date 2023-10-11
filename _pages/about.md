@@ -43,12 +43,7 @@ I am Iman Kianian who was born in Rasht, A metropolitan northern city of Iran. T
 
 Background
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My educational journey commenced at Shapour High School, an institution with a rich history of producing remarkable alumni such as Prof. Samii, Dr. Mohammad Moein, and Dr. Fazlollah Reza. These distinguished individuals served as an ongoing source of inspiration during my formative years. Following this, I pursued my Bachelor's degree at the University of Guilan, Northern Iran's most prominent educational institution, boasting a student body of over 18,000. I was privileged to be recognized as one of the top three undergraduate students. Subsequently, I secured admission to the University of Tehran, Iran's foremost university, where I saw myself in the field of Artificial Intelligence. These educational milestones have significantly shaped my academic journey, and the association with such illustrious alumni has continuously motivated me to excel in the field of AI.
 
 Research Field and Interest
 ======
