@@ -35,7 +35,7 @@ redirect_from:
 }
 </script>
 
-I'm a student and researcher currently pursuing a master's degree in Computer Science at the University of Tehran. With a solid foundation in Computer Science, my passion for tackling intricate questions led me into the captivating realms of Artificial Intelligence. I specialize in Computer Vision and Natural Language Processing, where I've skillfully honed my expertise and deepened my understanding. Fuelled by an unquenchable thirst for knowledge, I'm always chasing the thrill of the next big discovery. Additionally, I have an open embrace for new subjects and welcome the opportunity to venture into uncharted territories, further expanding my horizons in the ever-evolving landscape of AI and Computer Science. therefore, I'm eagerly motivated to continue my graduate studies at one of the top universities, under the supervision of the best professors in the world.
+I'm a student and researcher currently pursuing a master's degree in Computer Science at the University of Tehran. With a solid foundation in Computer Science, my passion for tackling intricate questions led me into the captivating realms of Artificial Intelligence. I specialize in Computer Vision and Natural Language Processing, where I've skillfully honed my expertise and deepened my understanding. Additionally, I have an open embrace for new subjects and welcome the opportunity to venture into uncharted territories, further expanding my horizons in the ever-evolving landscape of AI and Computer Science. Therefore, I'm eagerly motivated to continue my graduate studies at one of the top universities, under the supervision of the best professors in the world.
 
 About Me
 ======
