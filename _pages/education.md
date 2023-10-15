@@ -29,7 +29,7 @@ M.Sc. in Computer Science - Artificial Intelligence at the University of Tehran 
 </h2>
 
 <h3>
-GPA: 18.53 out of 20.00 (nearly 4.00 out of 4.00)
+GPA: 18.53 out of 20.00 (nearly 3.82 out of 4.00)
 </h3>
 
 <h3>
