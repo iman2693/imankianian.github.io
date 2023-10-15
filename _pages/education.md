@@ -20,20 +20,17 @@ author_profile: true
 </style>
 
 
-| M.Sc.   | University of Tehran       | 2021 - Now |
-
 
 <h3>
-Computer Science - Artificial Intelligence
+M.Sc. in Computer Science - Artificial Intelligence at the University of Tehran              (2021 - Now)
 </h3>
 
 <h3>
 GPA: 18.53 (nearly 4.00 out of 4.00)
 </h3>
 
-<h3>Thesis: Brain Age Estimation Using deep neural networks and MRI images</h3>
-Spatial frequency (SF) is shown to be a critical characteristic in object perception. However, there exists a lack of understanding of how the SF is represented in the brain, specifically in higher areas in the visual system hierarchy. To address this issue, we conducted extracellular recordings from macaque monkeys to investigate the representation of SF in the inferior temporal (IT) cortex. Furthermore, we investigated the impact of SF on complex object representation.
-
+<h3>Thesis: Brain Age Estimation Using deep neural networks and MR images</h3>
+Research in brain age estimation is crucial for a multitude of reasons, encompassing early detection of neurological disorders like Alzheimer's and Parkinson's, the advancement of aging-related research, and personalized healthcare. In this thesis some advanced approaches such as relational learning are taken and the results were reported. 
 |  B.Sc.  | University of Guilan       | 2017 - 2021 |
 
 <h3>
