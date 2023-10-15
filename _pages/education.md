@@ -51,13 +51,54 @@ Some Selected Courses:
 
 ------------------------
 
-<h3>
+<h2>
 B.Sc. in Computer Science at the University of Guilan              (2017 - 2021)
-</h3>
+</h2>
 
 <h3>
 GPA: 18.64 out of 20.00 (nearly 4.00 out of 4.00)
 </h3>
 
-<h3>Thesis: Combination of Classifiers Based on Information Theoretic Models</h3>
+<h3>
+Some Selected Courses:
+</h3>
+
+
+
+|                Course Name                 |      Teacher      |  Grade (out of 20.00) |
+|    :----------:|:-------------:|:------:|
+| Computer Principles And Programming |  Dr. Maryam Seifaddini | 19.75 |
+| Advanced Programming |    Dr. Sadegh Eskandari   |   20.00 |
+| Fundamentals of mathematical sciences | Dr. Mansour Hashemi |    17.75 |
+| Fundamentals of probability | Dr. Mahnaz Nabil |    20.00 |
+| Data structures and algorithms | Dr. Maryam Seifaddini |    20.00 |
+| Fundamentals of matrices and linear algebra | Prof. Mohammad Kiyanpour |    17.00 |
+| Basics of Computation Theory (Automata Theory) | Dr. Hashem Saberi |    17.00 |
+| Principles of Computer Systems | Dr. Sadegh Eskandari |    20.00 |
+| Principles of Compiler Design | Dr. Sadegh Eskandari |    20.00 |
+| Fundamentals of Logic and Set Theory | Dr. Maryam Seifaddini |    20.00 |
+| Fundamentals of Numerical Analysis | Prof. Hossein Aminikhah |    19.00 |
+| Data Mining | Prof. Farshid Mehrdoust |    20.00 |
+| Principles of Database Design | Dr. Sadegh Eskandari |    20.00 |
+| Principles of Operating Systems | Dr. Ali Jamalian |    20.00 |
+| Fundamentals of Combinatorics | Dr. Maryam Seifaddini |    18.50 |
+| Computer Networks | Dr. Sadegh Eskandari |    20.00 |
+| principles of Computational Intelligence | Dr. Ali Jamalian |    20.00 |
+| Design and Analysis of Algorithms | Dr. Maryam Seifaddini |    19.25 |
+| Logical Circuits | Dr. Maryam Seifaddini |    19.00 |
+| B. S. Computer Sciences Project | Dr. Sadegh Eskandari |    20.00 |
+| Fundamentals of algebra | Dr. Payam Bahiraei |    18.00 |
+| Numerical Linear Algebra | [Prof. Davod khojasteh](https://scholar.google.com/citations?user=pXBjb0AAAAAJ&hl=en) |    19.25 |
+| Artificial Intelligence | Dr. Sadegh Eskandari |    20.00 |
+| Computer Simulation | Dr. Amirhossein Tabatabai |    19.04 |
+| Computation Theory | Dr. Hashem Saberi |    20.00 |
+| Fundamentals of Mathematical Analysis | Dr. Mohammad Akbari |    18.25 |
+| Computer Graphics | Dr. Sadegh Eskandari |    20.00 |
+
+
+
+
+[Download full transcript](https://imankianian.ir/resources/Bachelor's Transcript.pdf)
+
+<h3>Thesis: Face Detection and Recognition in real-time videos and cameras</h3>
 One of the widely used methods to construct an accurate classifier is employing an ensemble of classifiers and making a decision based on their outputs of them. The question is: “Should we use all the classifiers to make a decision?” We try to answer this question in this study. In the literature on pattern recognition, this problem is known as “classifier selection”. First, a criterion for the selection of appropriate classifiers is introduced. To introduce the criterion, an information-theoretic framework is chosen. The criterion utilizes the error distribution as well as the value of the error. In fact, employing the error distribution is the novelty of our proposed method. In addition to decreasing the value of the error, the proposed method tries to select a subset of classifiers that has an error distribution close to the desired one. Results show that there exists a trade-off between the value of the error and its distribution. That means, making the error distribution close to the desired distribution, results in the increment of the error. However, this increment is negligible, when the training dataset is small. Next, we employ this idea in steganalysis. We employ the proposed classifier selection algorithm in this problem. The proposed method has a lower error rate and a smaller number of classifiers compared to the prior works. Furthermore, the dimension of the training samples of each classifier is reduced. Finally, the proposed method is much faster in predicting the observations.
