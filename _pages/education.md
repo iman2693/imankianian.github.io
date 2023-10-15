@@ -25,16 +25,28 @@ author_profile: true
 M.Sc. in Computer Science - Artificial Intelligence at the University of Tehran              (2021 - Now)
 </h3>
 
-<h3>
+<h4>
 GPA: 18.53 (nearly 4.00 out of 4.00)
-</h3>
+</h4>
 
-<h3>Thesis: Brain Age Estimation Using deep neural networks and MR images</h3>
+<h4>
+Selected Courses:
+</h4>
+|  Course Name  | Teacher |  Grade (out of 20.00)  |
+|  Machine Learning  | Dr. Hedieh Sajedi / Dr. Bagher Baba Ali | 19.90  |
+|  Natural Language Processing  | Dr. Bagher Baba Ali | 19.50  |
+|  Digital Image Processing and Computer Vision  | Dr. Hedieh Sajedi | 20.00  |
+|  Advanced Theory of Algorithms  |  Dr. Mohammad Ganjtabesh | 15.50  |
+|  Advanced Theory of Computation  |  Dr. Majid  Alizadeh | 17.00  |
+|  Seminar  |  Faculty Members | 20.00  |
+
+<h5>Thesis: Brain Age Estimation Using deep neural networks and MR images</h5>
 Research in brain age estimation is crucial for a multitude of reasons, encompassing early detection of neurological disorders like Alzheimer's and Parkinson's, the advancement of aging-related research, and personalized healthcare. In this thesis some advanced approaches such as relational learning are taken and the results were reported. 
-|  B.Sc.  | University of Guilan       | 2017 - 2021 |
+
+
 
 <h3>
-Computer Science
+B.Sc. in Computer Science at the University of Guilan              (2017 - 2021)
 </h3>
 
 <h3>
