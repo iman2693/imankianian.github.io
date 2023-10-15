@@ -37,8 +37,9 @@ Some Selected Courses:
 table colgroup col {
     width: auto !important;
 }
-th {
+td {
 	font-weight: normal !important;
+	font-size: 15px;
 }
 
 </style>
