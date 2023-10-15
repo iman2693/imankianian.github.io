@@ -33,6 +33,12 @@ GPA: 18.53 (nearly 4.00 out of 4.00)
 Some Selected Courses:
 </h4>
 
+<style>
+table colgroup col {
+    width: auto !important;
+}
+
+</style>
 
 |                Course Name                 |      Teacher      |  Grade (out of 20.00) |
 |    :----------|:-------------:|:------:|
