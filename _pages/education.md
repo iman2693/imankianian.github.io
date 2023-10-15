@@ -13,9 +13,9 @@ author_profile: true
         background-color: $light-gray;
     }
 
-    table tbody tr td:nth-child(1){width:50%;}
+    table tbody tr td:nth-child(1){width:40%;}
     table tbody tr td:nth-child(2){width:30%;}
-    table tbody tr td:nth-child(3){width:20%;}
+    table tbody tr td:nth-child(3){width:30%;}
 
 </style>
 
