@@ -49,7 +49,7 @@ Some Selected Courses:
 <h3>Thesis: Brain Age Estimation Using deep neural networks and MR images</h3>
 Research in brain age estimation is crucial for a multitude of reasons, encompassing early detection of neurological disorders like Alzheimer's and Parkinson's, the advancement of aging-related research, and personalized healthcare. In this thesis some advanced approaches such as relational learning are taken and the results were reported. 
 
-
+------------------------
 
 <h3>
 B.Sc. in Computer Science at the University of Guilan              (2017 - 2021)
