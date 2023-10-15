@@ -8,14 +8,14 @@ author_profile: true
 <style>
     table {
         width: 100%;
-        font-size: 20px;
+        font-size: 15px;
         font-weight: bold;
         background-color: $light-gray;
     }
 
-    table tbody tr td:nth-child(1){width:25%;}
-    table tbody tr td:nth-child(2){width:50%;}
-    table tbody tr td:nth-child(3){width:25%;}
+    table tbody tr td:nth-child(1){width:50%;}
+    table tbody tr td:nth-child(2){width:30%;}
+    table tbody tr td:nth-child(3){width:20%;}
 
 </style>
 
@@ -25,13 +25,13 @@ author_profile: true
 M.Sc. in Computer Science - Artificial Intelligence at the University of Tehran              (2021 - Now)
 </h3>
 
-<h4>
+<h3>
 GPA: 18.53 (nearly 4.00 out of 4.00)
-</h4>
+</h3>
 
-<h4>
+<h3>
 Some Selected Courses:
-</h4>
+</h3>
 
 <style>
 table colgroup col {
@@ -39,16 +39,12 @@ table colgroup col {
 }
 td {
 	font-weight: normal !important;
-	font-size: 15px;
-}
-tا {
-	font-size: 15px;
 }
 
 </style>
 
 |                Course Name                 |      Teacher      |  Grade (out of 20.00) |
-|    :----------|:-------------:|:------:|
+|    :----------:|:-------------:|:------:|
 | Machine Learning |  Dr. Hedieh Sajedi / Dr. Bagher Baba Ali | 19.90 |
 | Natural Language Processing |    Dr. Bagher Baba Ali   |   19.50 |
 | Digital Image Processing and Computer Vision | Dr. Hedieh Sajedi |    20.00 |
