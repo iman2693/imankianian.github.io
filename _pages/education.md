@@ -16,6 +16,9 @@ author_profile: true
     table tbody tr td:nth-child(1){width:40%;}
     table tbody tr td:nth-child(2){width:30%;}
     table tbody tr td:nth-child(3){width:30%;}
+	td {
+		font-weight: normal !important;
+	}
 
 </style>
 
@@ -26,22 +29,14 @@ M.Sc. in Computer Science - Artificial Intelligence at the University of Tehran 
 </h2>
 
 <h3>
-GPA: 18.53 (nearly 4.00 out of 4.00)
+GPA: 18.53 out of 20.00 (nearly 4.00 out of 4.00)
 </h3>
 
 <h3>
 Some Selected Courses:
 </h3>
 
-<style>
-table colgroup col {
-    width: auto !important;
-}
-td {
-	font-weight: normal !important;
-}
 
-</style>
 
 |                Course Name                 |      Teacher      |  Grade (out of 20.00) |
 |    :----------:|:-------------:|:------:|
@@ -61,7 +56,7 @@ B.Sc. in Computer Science at the University of Guilan              (2017 - 2021)
 </h3>
 
 <h3>
-GPA: 18.64 (nearly 4.00 out of 4.00)
+GPA: 18.64 out of 20.00 (nearly 4.00 out of 4.00)
 </h3>
 
 <h3>Thesis: Combination of Classifiers Based on Information Theoretic Models</h3>
