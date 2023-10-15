@@ -36,8 +36,7 @@ redirect_from:
 </script>
 
 
-I am Iman Kianian, currently pursuing a master's degree in Computer Science at the University of Tehran. My academic journey began with a strong foundation in Computer Science, but my passion for solving intricate problems led me into the captivating realms of Artificial Intelligence, specializing in Computer Vision and Natural Language Processing. I am dedicated to expanding my horizons in AI, including areas such as Machine Learning, Deep Learning, and Medical Image Analysis. With an open embrace for new subjects and the opportunity to venture into uncharted territories, I am eagerly motivated to continue my graduate studies at a top-tier institution, under the guidance of world-class professors, making meaningful contributions to the advancement of these fields.
-
+Iman Kianian is my name, and I was born in Rasht, a large city in northern Iran. a researcher and student at the University of Tehran obtaining a master's in computer science. With a strong background in computer science, I was drawn to the fascinating fields of artificial intelligence by my desire to solve challenging problems. I have expertly developed my knowledge and expanded it in the fields of Computer Vision and Natural Language Processing. I also welcome the chance to explore new topics and keep an open mind, which has helped me broaden my horizons in the field of AI and computer science, which is constantly changing.  I am therefore highly motivated to carry on with my graduate studies at a prestigious university, where I will be supervised by the best teachers in the world. My research interests span a variety of cutting-edge technologies, including computer vision, natural language processing, machine learning, deep learning, and medical image analysis.
 
 Background
 ======
