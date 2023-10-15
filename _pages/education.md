@@ -21,9 +21,9 @@ author_profile: true
 
 
 
-<h3>
+<h2>
 M.Sc. in Computer Science - Artificial Intelligence at the University of Tehran              (2021 - Now)
-</h3>
+</h2>
 
 <h3>
 GPA: 18.53 (nearly 4.00 out of 4.00)
@@ -51,7 +51,7 @@ td {
 
 [Download full transcript](https://google.com/)
 
-<h5>Thesis: Brain Age Estimation Using deep neural networks and MR images</h5>
+<h3>Thesis: Brain Age Estimation Using deep neural networks and MR images</h3>
 Research in brain age estimation is crucial for a multitude of reasons, encompassing early detection of neurological disorders like Alzheimer's and Parkinson's, the advancement of aging-related research, and personalized healthcare. In this thesis some advanced approaches such as relational learning are taken and the results were reported. 
 
 
