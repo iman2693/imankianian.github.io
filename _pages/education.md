@@ -34,7 +34,7 @@ Some Selected Courses:
 </h4>
 
 
-|                Course Name                   |      Teacher      |  Grade (out of 20.00) |
+|                <h4>Course Name</h4>                  |      <h4>Teacher</h4>      |  <h4>Grade (out of 20.00)</h4> |
 |    :----------|:-------------:|:------:|
 | Machine Learning |  Dr. Hedieh Sajedi / Dr. Bagher Baba Ali | 19.90 |
 | Natural Language Processing |    Dr. Bagher Baba Ali   |   19.50 |
