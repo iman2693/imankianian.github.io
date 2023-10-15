@@ -32,10 +32,13 @@ GPA: 18.53 (nearly 4.00 out of 4.00)
 <h4>
 Some Selected Courses:
 </h4>
-|                **Course Name**                     |                 **Teacher**                 |  **Grade (out of 20.00)**  |
-|             Machine Learning                   | Dr. Hedieh Sajedi / Dr. Bagher Baba Ali |         19.90          |
-|         Natural Language Processing            |          Dr. Bagher Baba Ali            |         19.50          |
-|  Digital Image Processing and Computer Vision  |           Dr. Hedieh Sajedi             |         20.00          |
+
+
+| **Course Name**   |      **Teacher**      |  **Grade (out of 20.00)** |
+|----------|:-------------:|------:|
+| Machine Learning |  Dr. Hedieh Sajedi / Dr. Bagher Baba Ali | 19.90 |
+| Natural Language Processing |    Dr. Bagher Baba Ali   |   19.50 |
+| Digital Image Processing and Computer Vision | Dr. Hedieh Sajedi |    20.00 |
 
 [Download full transcript](https://google.com/)
 
