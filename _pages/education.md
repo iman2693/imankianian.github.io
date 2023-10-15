@@ -41,6 +41,9 @@ td {
 	font-weight: normal !important;
 	font-size: 15px;
 }
+tا {
+	font-size: 15px;
+}
 
 </style>
 
