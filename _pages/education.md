@@ -25,7 +25,7 @@ author_profile: true
 
 
 <h2>
-M.Sc. in Computer Science - Artificial Intelligence at the University of Tehran              (2021 - Now)
+M.Sc. in Computer Science - Artificial Intelligence at the University of Tehran              (2021 - Present)
 </h2>
 
 <h3>
