@@ -47,7 +47,7 @@ Some Selected Courses:
 [Download full transcript](https://imankianian.ir/resources/Master's Transcript.pdf)
 
 <h3>Thesis: Brain Age Estimation Using deep neural networks and MR images</h3>
-<p style="text-align:justify;">Research in brain age estimation is crucial for a multitude of reasons, encompassing early detection of neurological disorders like Alzheimer's and Parkinson's, the advancement of aging-related research, and personalized healthcare. In this thesis some advanced approaches such as relational learning are taken and the results have been reported. </p>
+<p style="text-align:justify;">Research in brain age estimation is crucial for a multitude of reasons, encompassing early detection of neurological disorders like Alzheimer's and Parkinson's, the advancement of aging-related research, and personalized healthcare. In this thesis some advanced approaches such as relational learning are taken and the results have been reported. However, working on models for the prediction of ages is not finished. I will continue to achieve better results in the following months. </p>
 
 ------------------------
 
