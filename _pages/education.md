@@ -40,9 +40,9 @@ Some Selected Courses:
 
 |                Course Name                 |      Teacher      |  Grade (out of 20.00) |
 |    :----------:|:-------------:|:------:|
-| Machine Learning |  Dr. Hedieh Sajedi / Dr. Bagher Baba Ali | 19.90 |
-| Natural Language Processing |    Dr. Bagher Baba Ali   |   19.50 |
-| Digital Image Processing and Computer Vision | Dr. Hedieh Sajedi |    20.00 |
+| Machine Learning |  [Dr. Hedieh Sajedi](https://scholar.google.com/citations?user=YHjV73oAAAAJ&hl=en) / [Dr. Bagher Baba Ali](https://dblp.org/pid/87/9176.html) | 19.90 |
+| Natural Language Processing |    [Dr. Bagher Baba Ali](https://dblp.org/pid/87/9176.html)   |   19.50 |
+| Digital Image Processing and Computer Vision | [Dr. Hedieh Sajedi](https://scholar.google.com/citations?user=YHjV73oAAAAJ&hl=en) |    20.00 |
 
 [Download full transcript](https://imankianian.ir/resources/Master's Transcript.pdf)
 
@@ -68,25 +68,25 @@ Some Selected Courses:
 
 |                Course Name                 |      Teacher      |  Grade (out of 20.00) |
 |    :----------:|:-------------:|:------:|
-| Computer Principles and Programming |  Dr. Maryam Seifaddini | 19.75 |
-| Advanced Programming |    Dr. Sadegh Eskandari   |   20.00 |
-| Fundamentals of Mathematical Sciences | Dr. Mansour Hashemi |    17.75 |
+| Computer Principles and Programming |  [Dr. Maryam Seifaddini](https://scholar.google.com/citations?user=H6nDdkgAAAAJ&hl=en) | 19.75 |
+| Advanced Programming |    [Dr. Sadegh Eskandari](https://scholar.google.com/citations?user=y-LsrFEAAAAJ&hl=en)   |   20.00 |
+| Fundamentals of Mathematical Sciences | [Dr. Mansour Hashemi](https://scholar.google.com/citations?user=lRK8dfkAAAAJ&hl=en) |    17.75 |
 | Fundamentals of Probability | Dr. Mahnaz Nabil |    20.00 |
-| Data structures and algorithms | Dr. Maryam Seifaddini |    20.00 |
+| Data structures and algorithms | [Dr. Maryam Seifaddini](https://scholar.google.com/citations?user=H6nDdkgAAAAJ&hl=en) |    20.00 |
 | Fundamentals of Matrices and Linear Algebra | Prof. Mohammad Kiyanpour |    17.00 |
-| Basics of Computation Theory (Automata Theory) | Dr. Hashem Saberi |    17.00 |
-| Fundamentals of Logic and Set Theory | Dr. Maryam Seifaddini |    20.00 |
-| Data Mining | Prof. Farshid Mehrdoust |    20.00 |
-| Principles of Database Design | Dr. Sadegh Eskandari |    20.00 |
-| Fundamentals of Combinatorics | Dr. Maryam Seifaddini |    18.50 |
-| Principles of Computational Intelligence | Dr. Ali Jamalian |    20.00 |
-| Design and Analysis of Algorithms | Dr. Maryam Seifaddini |    19.25 |
-| B. S. Computer Sciences Project | Dr. Sadegh Eskandari |    20.00 |
-| Fundamentals of algebra | Dr. Payam Bahiraei |    18.00 |
+| Basics of Computation Theory (Automata Theory) | [Dr. Hashem Saberi](https://scholar.google.com/citations?user=rgXtd_QAAAAJ&hl=en) |    17.00 |
+| Fundamentals of Logic and Set Theory | [Dr. Maryam Seifaddini](https://scholar.google.com/citations?user=H6nDdkgAAAAJ&hl=en) |    20.00 |
+| Data Mining | [Prof. Farshid Mehrdoust](https://scholar.google.com/citations?user=JUWwhBoAAAAJ&hl=en) |    20.00 |
+| Principles of Database Design | [Dr. Sadegh Eskandari](https://scholar.google.com/citations?user=y-LsrFEAAAAJ&hl=en) |    20.00 |
+| Fundamentals of Combinatorics | [Dr. Maryam Seifaddini](https://scholar.google.com/citations?user=H6nDdkgAAAAJ&hl=en) |    18.50 |
+| Principles of Computational Intelligence | [Dr. Ali Jamalian](https://scholar.google.ch/citations?user=TRMcm8sAAAAJ&hl=en) |    20.00 |
+| Design and Analysis of Algorithms | [Dr. Maryam Seifaddini](https://scholar.google.com/citations?user=H6nDdkgAAAAJ&hl=en) |    19.25 |
+| B. S. Computer Sciences Project | [Dr. Sadegh Eskandari](https://scholar.google.com/citations?user=y-LsrFEAAAAJ&hl=en) |    20.00 |
+| Fundamentals of algebra | [Dr. Payam Bahiraei](https://scholar.google.com/citations?user=eOEQq4IAAAAJ&hl=en) |    18.00 |
 | Numerical Linear Algebra | [Prof. Davod khojasteh](https://scholar.google.com/citations?user=pXBjb0AAAAAJ&hl=en) |    19.25 |
-| Artificial Intelligence | Dr. Sadegh Eskandari |    20.00 |
-| Computer Simulation | Dr. Amirhossein Tabatabai |    19.04 |
-| Computation Theory | Dr. Hashem Saberi |    20.00 |
+| Artificial Intelligence | [Dr. Sadegh Eskandari](https://scholar.google.com/citations?user=y-LsrFEAAAAJ&hl=en) |    20.00 |
+| Computer Simulation | [Dr. Amirhossein Tabatabai](https://scholar.google.com/citations?user=HEBT11YAAAAJ&hl=en) |    19.04 |
+| Computation Theory | [Dr. Hashem Saberi](https://scholar.google.com/citations?user=rgXtd_QAAAAJ&hl=en) |    20.00 |
 
 
 
