@@ -75,7 +75,7 @@ Some Selected Courses:
 | Advanced Programming |    [Dr. Sadegh Eskandari](https://scholar.google.com/citations?user=y-LsrFEAAAAJ&hl=en)   |   20.00 |
 | Fundamentals of Mathematical Sciences | [Dr. Mansour Hashemi](https://scholar.google.com/citations?user=lRK8dfkAAAAJ&hl=en) |    17.75 |
 | Fundamentals of Probability | Dr. Mahnaz Nabil |    20.00 |
-| Data structures and algorithms | [Dr. Maryam Seifaddini](https://scholar.google.com/citations?user=H6nDdkgAAAAJ&hl=en) |    20.00 |
+| Data Structures and Algorithms | [Dr. Maryam Seifaddini](https://scholar.google.com/citations?user=H6nDdkgAAAAJ&hl=en) |    20.00 |
 | Fundamentals of Matrices and Linear Algebra | Prof. Mohammad Kiyanpour |    17.00 |
 | Basics of Computation Theory (Automata Theory) | [Dr. Hashem Saberi](https://scholar.google.com/citations?user=rgXtd_QAAAAJ&hl=en) |    17.00 |
 | Fundamentals of Logic and Set Theory | [Dr. Maryam Seifaddini](https://scholar.google.com/citations?user=H6nDdkgAAAAJ&hl=en) |    20.00 |
@@ -85,7 +85,7 @@ Some Selected Courses:
 | Principles of Computational Intelligence | [Dr. Ali Jamalian](https://scholar.google.ch/citations?user=TRMcm8sAAAAJ&hl=en) |    20.00 |
 | Design and Analysis of Algorithms | [Dr. Maryam Seifaddini](https://scholar.google.com/citations?user=H6nDdkgAAAAJ&hl=en) |    19.25 |
 | B. S. Computer Sciences Project | [Dr. Sadegh Eskandari](https://scholar.google.com/citations?user=y-LsrFEAAAAJ&hl=en) |    20.00 |
-| Fundamentals of algebra | [Dr. Payam Bahiraei](https://scholar.google.com/citations?user=eOEQq4IAAAAJ&hl=en) |    18.00 |
+| Fundamentals of Algebra | [Dr. Payam Bahiraei](https://scholar.google.com/citations?user=eOEQq4IAAAAJ&hl=en) |    18.00 |
 | Numerical Linear Algebra | [Prof. Davod khojasteh](https://scholar.google.com/citations?user=pXBjb0AAAAAJ&hl=en) |    19.25 |
 | Artificial Intelligence | [Dr. Sadegh Eskandari](https://scholar.google.com/citations?user=y-LsrFEAAAAJ&hl=en) |    20.00 |
 | Computer Simulation | [Dr. Amirhossein Tabatabai](https://scholar.google.com/citations?user=HEBT11YAAAAJ&hl=en) |    19.04 |
