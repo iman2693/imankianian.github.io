@@ -57,6 +57,9 @@ B.Sc. in Computer Science at the University of Guilan              (2017 - 2021)
 
 <h3>
 Major GPA: 19.18 out of 20.00 (nearly 3.97 out of 4.00)
+</h3>
+
+<h3>
 Overall GPA: 18.64 out of 20.00 (nearly 3.84 out of 4.00)
 </h3>
 
