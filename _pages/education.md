@@ -68,33 +68,25 @@ Some Selected Courses:
 
 |                Course Name                 |      Teacher      |  Grade (out of 20.00) |
 |    :----------:|:-------------:|:------:|
-| Computer Principles And Programming |  Dr. Maryam Seifaddini | 19.75 |
+| Computer Principles and Programming |  Dr. Maryam Seifaddini | 19.75 |
 | Advanced Programming |    Dr. Sadegh Eskandari   |   20.00 |
-| Fundamentals of mathematical sciences | Dr. Mansour Hashemi |    17.75 |
-| Fundamentals of probability | Dr. Mahnaz Nabil |    20.00 |
+| Fundamentals of Mathematical Sciences | Dr. Mansour Hashemi |    17.75 |
+| Fundamentals of Probability | Dr. Mahnaz Nabil |    20.00 |
 | Data structures and algorithms | Dr. Maryam Seifaddini |    20.00 |
-| Fundamentals of matrices and linear algebra | Prof. Mohammad Kiyanpour |    17.00 |
+| Fundamentals of Matrices and Linear Algebra | Prof. Mohammad Kiyanpour |    17.00 |
 | Basics of Computation Theory (Automata Theory) | Dr. Hashem Saberi |    17.00 |
-| Principles of Computer Systems | Dr. Sadegh Eskandari |    20.00 |
-| Principles of Compiler Design | Dr. Sadegh Eskandari |    20.00 |
 | Fundamentals of Logic and Set Theory | Dr. Maryam Seifaddini |    20.00 |
-| Fundamentals of Numerical Analysis | Prof. Hossein Aminikhah |    19.00 |
 | Data Mining | Prof. Farshid Mehrdoust |    20.00 |
 | Principles of Database Design | Dr. Sadegh Eskandari |    20.00 |
-| Principles of Operating Systems | Dr. Ali Jamalian |    20.00 |
 | Fundamentals of Combinatorics | Dr. Maryam Seifaddini |    18.50 |
-| Computer Networks | Dr. Sadegh Eskandari |    20.00 |
-| principles of Computational Intelligence | Dr. Ali Jamalian |    20.00 |
+| Principles of Computational Intelligence | Dr. Ali Jamalian |    20.00 |
 | Design and Analysis of Algorithms | Dr. Maryam Seifaddini |    19.25 |
-| Logical Circuits | Dr. Maryam Seifaddini |    19.00 |
 | B. S. Computer Sciences Project | Dr. Sadegh Eskandari |    20.00 |
 | Fundamentals of algebra | Dr. Payam Bahiraei |    18.00 |
 | Numerical Linear Algebra | [Prof. Davod khojasteh](https://scholar.google.com/citations?user=pXBjb0AAAAAJ&hl=en) |    19.25 |
 | Artificial Intelligence | Dr. Sadegh Eskandari |    20.00 |
 | Computer Simulation | Dr. Amirhossein Tabatabai |    19.04 |
 | Computation Theory | Dr. Hashem Saberi |    20.00 |
-| Fundamentals of Mathematical Analysis | Dr. Mohammad Akbari |    18.25 |
-| Computer Graphics | Dr. Sadegh Eskandari |    20.00 |
 
 
 
