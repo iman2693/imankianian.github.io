@@ -68,7 +68,7 @@ Academic Background
 }
 </script>
 
-My educational voyage commenced at Shapour High School, an institution renowned for nurturing exceptional talents. Here, I drew inspiration from distinguished alumni like Prof. Samii, Dr. Mohammad Moein, and Dr. Fazlollah Reza, which ignited my passion for computer science.I continued my journey at the University of Guilan, where I was honored as one of the top three undergraduate students. This laid the foundation for my admission to the University of Tehran, where I embarked on my pursuit of Artificial Intelligence, a field that continues to captivate me.
+My educational voyage commenced at Shapour High School, an institution renowned for nurturing exceptional talents. Here, I drew inspiration from distinguished alumni like Prof. Samii, Dr. Mohammad Moein, and Dr. Fazlollah Reza, which ignited my passion for computer science. I continued my journey at the University of Guilan, where I was honored as one of the top three undergraduate students. This laid the foundation for my admission to the University of Tehran, where I embarked on my pursuit of Artificial Intelligence, a field that continues to captivate me.
 
 Research Field and Interest
 ======
