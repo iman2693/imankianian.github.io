@@ -40,8 +40,8 @@ Iman Kianian is my name, and I was born in Rasht, a large city in northern Iran.
 
 Academic Background 
 ======
-<audio src="resources/AcademicBackground.mp3" id="audio"></audio>
-<button class="play-pause-button paused" onclick="play()" id="play">
+<audio src="resources/AcademicBackground.mp3" id="audio2"></audio>
+<button class="play-pause-button paused" onclick="play2()" id="play2">
     <i>P</i>
     <i>l</i>
     <i>a</i>
@@ -49,9 +49,9 @@ Academic Background
     <i>use</i>
 </button>
 <script>
-    function play() {
-        var audio = document.getElementById('audio');
-        var button = document.getElementById("play");
+    function play2() {
+        var audio = document.getElementById('audio2');
+        var button = document.getElementById("play2");
         if(button.classList.contains('playing')) {
             audio.pause();
             button.classList.remove('paused', 'playing');
@@ -72,8 +72,8 @@ My educational voyage commenced at Shapour High School, an institution renowned 
 
 Research Field and Interest
 ======
-<audio src="resources/ResearchField.mp3" id="audio"></audio>
-<button class="play-pause-button paused" onclick="play()" id="play">
+<audio src="resources/ResearchField.mp3" id="audio3"></audio>
+<button class="play-pause-button paused" onclick="play3()" id="play3">
     <i>P</i>
     <i>l</i>
     <i>a</i>
@@ -81,9 +81,9 @@ Research Field and Interest
     <i>use</i>
 </button>
 <script>
-    function play() {
-        var audio = document.getElementById('audio');
-        var button = document.getElementById("play");
+    function play3() {
+        var audio = document.getElementById('audio3');
+        var button = document.getElementById("play3");
         if(button.classList.contains('playing')) {
             audio.pause();
             button.classList.remove('paused', 'playing');
