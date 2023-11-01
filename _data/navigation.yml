@@ -11,12 +11,9 @@ main:
     
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Gallery"
-    url: /gallery/
-        
+           
   - title: "Blog"
     url: /blog/
     
   - title: "CV"
-    url: /cv/
+    url: https://drive.google.com/file/d/1ZY3ZXvOREzdRqj8CObQqhC5XBfaZ2x3v/view?usp=drive_link
