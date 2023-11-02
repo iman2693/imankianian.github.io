@@ -10,7 +10,16 @@ main:
     url: /projects/
     
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+
+  - title: "Working Experiences"
+    url: /working/
+    
+  - title: "Skills"
+    url: /skills/  
+    
+  - title: "Honors"
+    url: /honors/
            
   - title: "Blog"
     url: /blog/
