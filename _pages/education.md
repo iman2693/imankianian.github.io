@@ -28,9 +28,9 @@ author_profile: true
 M.Sc. in Computer Science - Artificial Intelligence at the <a href="https://ut.ac.ir/en">University of Tehran</a>              (2021 - Present)
 </h2>
 
-<h3>
+<h4>
 GPA: 18.53 out of 20.00 (3.82 out of 4.00)
-</h3>
+</h4>
 
 <h3>Thesis: Brain Age Estimation Using deep neural networks and MR images</h3>
 <p style="text-align:justify;">Defended on 8th September of 2024 with a highest grade A+.</p>
@@ -44,13 +44,13 @@ GPA: 18.53 out of 20.00 (3.82 out of 4.00)
 B.Sc. in Computer Science at the <a href="https://english.guilan.ac.ir/">University of Guilan</a>              (2017 - 2021)
 </h2>
 
-<h3>
+<h4>
 Major GPA: 19.18 out of 20.00 (3.97 out of 4.00)
-</h3>
+</h4>
 
-<h3>
+<h4>
 Overall GPA: 18.64 out of 20.00 (3.84 out of 4.00), Last Two Years = 19.22
-</h3>
+</h4>
 <h3>Final Project: Face Detection and Recognition in real-time videos and cameras</h3>
 
 
