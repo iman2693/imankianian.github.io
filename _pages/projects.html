@@ -1,0 +1,607 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            margin: 0 auto;
+        }
+
+        .project-container {
+            display: flex;
+            align-items: center;
+            border: 1px solid #ddd;
+            margin-bottom: 30px;
+            padding: 20px;
+            transition: transform 0.2s; /* Add smooth transition for hover effect */
+        }
+
+        .project-container:hover {
+            transform: scale(1.05); /* Enlarge slightly on hover */
+        }
+
+        .project-container img {
+            max-width: 300px;
+            margin-right: 20px;
+            cursor: pointer; /* Add cursor pointer to indicate it's clickable */
+        }
+
+        .project-container h1 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+
+        .project-container h2 {
+            font-size: 16px;
+            margin-top: 10px;
+        }
+
+        .project-container p {
+            font-size: 14px;
+            margin: 5px 0;
+        }
+
+        .project-container .project-link {
+            font-size: 14px;
+        }
+
+        @media screen and (max-width: 600px) {
+            .project-container {
+                flex-direction: column;
+                align-items: flex-start;
+                text-align: center;
+            }
+
+            .project-container img {
+                max-width: 100%;
+                margin-right: 0;
+            }
+        }
+
+        /* Add margin at the bottom of the page */
+        body::after {
+            content: "";
+            height: 200px; /* Adjust this value to control the margin size */
+            display: block;
+        }
+
+        table {
+            width: 80%;
+            border-collapse: collapse;
+            margin: 0 auto;
+            margin-top: 30px; /* Add margin at the top of the table */
+            margin-bottom: 30px; /* Add margin at the end of the table */
+        }
+
+        table, th, td {
+            border: 1px solid #666;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        a {
+            text-decoration: none;
+            color: #333;
+        }
+
+        a:hover {
+            font-weight: bold;
+        }
+        
+        /* Center-align the Table of Contents heading */
+        h2 {
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <h2>Table of Contents</h2>
+    <table>
+        <tr>
+            <td><a href="#multivariable-regression">Implementation Multivariable Regression</a></td>
+            <td><a href="#lda">LDA dimensionality reduction and classification</a></td>
+        </tr>
+        <tr>
+            <td><a href="#perceptron-classification">Implementation Perceptron Algorithm</a></td>
+            <td><a href="#pca">PCA dimensinality reduction on images of faces</a></td>
+        </tr>
+        <tr>
+            <td><a href="#naivebayes">Naive Bayes and MLP for classification</a></td>
+            <td><a href="#kmeans">K-means algorithm</a></td>
+        </tr>
+        <tr>
+            <td><a href="#svm">Decision Tree / Random Forest / XGBoost / SVM for classification</a></td>
+            <td><a href="#autoencoder">MLP / ELM / AutoEncoder for classification</a></td>
+        </tr>
+        <tr>
+            <td><a href="#n-queens-puzzle">N Queens Puzzle</a></td>
+            <td><a href="#maze-solver-ai">Maze Solver AI</a></td>
+        </tr>
+        <tr>
+            <td><a href="#connect-four-game-ai">Connect Four Game AI</a></td>
+            <td><a href="#assembler-and-disassembler">Assembler and Disassembler</a></td>
+        </tr>
+        <tr>
+            <td><a href="#image-processing-using-assembly">Image Processing using Assembly</a></td>
+            <td><a href="#Neural-Networks-From-Scartch">Neural Networks From Scratch</a></td>
+        </tr>
+        <tr>
+            <td><a href="#Snake-Game">Snake Game</a></td>
+            <td><a href="#Semantic_Tableaux">Semantic Tableaux</a></td>
+        </tr>
+        <tr>
+            <td><a href="#MLP">MLP From Scratch</a></td>
+            <td><a href="#Scheduling_Algorithms">Scheduling Algorithms</a></td>
+        </tr>
+        <tr>
+            <td><a href="#Graph_traversal">Graph Traversal Methods</a></td>
+            <td><a href="#MorisManoBasicComputer">Moris Mano Basic Compute</a></td>
+        </tr>
+        <tr>
+            <td><a href="#House_Price_Prediction">House Price Prediction</a></td>
+            <td><a href="#Twitter">Simple Twitter</a></td>
+        </tr>
+        <tr>
+            <td colspan="2"><a href="#Titanic_Survival_Prediction">Titanic Survival Prediction</a></td>
+        </tr>
+    </table>
+
+
+    <div class="project-container project-hover" id="multivariable-regression"> <!--onclick="window.location.href='https://github.com/nargesbh/Grapevine-Leaves-Classification'">-->
+      <a href="https://github.com/nargesbh/Grapevine-Leaves-Classification" target="_blank">
+          <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/leaves2-small.jpg" alt="Project Image" width="300">
+      </a>
+      <div>
+          <h1>Grapevine Leaves Classification</h1>
+          <p><strong>Project Date</strong>: July 2022</p>
+          <p><em>Data Mining Course's Project</em></p>
+          <p>This project is the final assignment for a data mining course. The primary objective is to classify grapevine leaves into five distinct classes using various deep learning models, including MobileNetV2, ResNet50, EfficientNetB3, and InceptionNetV3. The project also explores the impact of autoencoders on classification accuracy and employs 10-fold cross-validation as a performance metric.</p>
+          <p><strong>Libraries Used</strong>: tensorflow, keras, PIL, pandas, numpy, sklearn</p>
+          <p class="project-link"><a href="https://github.com/nargesbh/Grapevine-Leaves-Classification" target="_blank">GitHub Repository</a></p>
+      </div>
+  </div>
+
+ 
+  <div class="project-container project-hover" id="histopathology-image-classification" onclick="window.location.href='https://github.com/nargesbh/Histopathology-Image-Classification'">
+    <a href="https://github.com/nargesbh/Histopathology-Image-Classification" target="_blank">
+        <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/pr2.png" alt="Project Image" width="300">
+    </a>
+    <div>
+        <h1>Histopathology Image Classification</h1>
+        <p><strong>Project Date</strong>: May 2023</p>
+        <p><em>Image Processing Course's project</em></p>
+        <p>In this project, I explored various deep learning models for image classification, specifically in the context of histopathology image analysis. I trained and evaluated these models on a custom dataset and compared the performance of different model architectures. The models include the homework model, an updated model with modified convolutional layers, and a pre-trained ResNet-50 model fine-tuned for our classification task.</p>
+        <p><strong>Libraries Used</strong>: Python, TensorFlow, Keras, OpenCV, Pandas, NumPy, Matplotlib, Scikit-Learn, PIL, Seaborn</p>
+        <p class="project-link"><a href="https://github.com/nargesbh/Histopathology-Image-Classification" target="_blank">GitHub Repository</a></p>
+    </div>
+</div>
+
+
+<div class="project-container project-hover" id="finding-vowels" onclick="window.location.href='https://github.com/nargesbh/finding-vowels-persion-dataset'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/nlp-pr3.jpg" alt="Project Image" width="300">
+  <div>
+      <h1>Finding Vowels</h1>
+      <p><strong>Project Date</strong>: December 2021</p>
+      <p><em>Information Retrieval Course's Mini-Project</em></p>
+      <p>
+          In this project, I embark on a journey to enhance Persian language understanding through state-of-the-art machine learning.
+          My core objective revolves around accurately labeling each word in Persian text with its corresponding part of speech,
+          a fundamental task in natural language processing. By leveraging a meticulously curated dataset of Persian texts,
+          I employ a range of machine learning models, including Gaussian Naive Bayes, Multinomial Naive Bayes, Decision Trees, Perceptron,
+          and Logistic Regression, to decode the grammatical structure of Persian sentences. My project's success hinges on comprehensive feature engineering,
+          innovative feature selection techniques, and meticulous model evaluation, ensuring that our POS tagging model meets the highest standards of accuracy
+          and precision.
+      </p>
+      <p><strong>Libraries Used</strong>: Pandas, Numpy, Scikit-learn, PersianStemmer</p>
+      <p class="project-link"><a href="https://github.com/nargesbh/finding-vowels-persion-dataset" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="parkinsons-disease-classification" onclick="window.location.href='https://github.com/nargesbh/Parkinson-s-Disease-Classification-'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/parkinson.png" alt="Project Image" width="300">
+  <div>
+      <h1>Parkinson's Disease Classification</h1>
+      <p><strong>Project Date</strong>: June 2022</p>
+      <p><em>Data Mining Course's Mini-Project</em></p>
+      <p>
+          Parkinson's disease is a debilitating neurodegenerative disorder that profoundly affects a
+          person's ability to move and leads to symptoms like tremors, slowness of movement, and muscle
+          rigidity. Timely diagnosis is crucial for effective treatment and management, and this project
+          seeks to contribute to that goal by employing cutting-edge data analysis techniques. I embark on an exciting
+          exploration of various machine learning algorithms, each with its unique strengths and
+          characteristics. These include Decision Trees, K-Nearest Neighbors, Support Vector Machines,
+          and Random Forests. Through rigorous experimentation and cross-validation, I fine-tune these
+          algorithms to achieve optimal performance, ensuring they are finely attuned to the nuances of
+          Parkinson's disease classification. Recognizing the complexity of my dataset, I implement Principal
+          Component Analysis (PCA) to reduce its dimensionality while preserving vital information.
+          The outcomes of this endeavor hold the promise of significantly improving the lives of
+          individuals affected by Parkinson's disease by enabling swifter and more accurate
+          diagnosis and management.
+      </p>
+      <p><strong>Libraries Used</strong>: Python, Scikit-Learn, Seaborn, NumPy, Pandas, SciPy</p>
+      <p class="project-link"><a href="https://github.com/nargesbh/Parkinson-s-Disease-Classification-" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="sentiment-analysis" onclick="window.location.href='https://github.com/nargesbh/sentiment-analysis'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/sentiment.png" alt="Project Image" width="300">
+  <div>
+      <h1>Sentiment Analysis</h1>
+      <p><strong>Project Date</strong>: November 2021</p>
+      <p><em>Information Retrieval Course's Mini-Project</em></p>
+      <p>In the realm of natural language processing, understanding sentiment expressed in text is a
+          pivotal challenge. This project presents a Python solution to this problem by
+          implementing sentiment analysis using a Naive Bayes classifier. Sentiment analysis,
+          often called opinion mining, revolves around the task of discerning the sentiment
+          or emotional tone embedded within text, such as tweets.
+          This project encompasses two primary datasets: the SandersPosNeg dataset and OMD. The SandersPosNeg dataset features tweets categorized as
+          either positive or negative sentiment, with a Naive Bayes classifier achieving an
+          accuracy of approximately 82.9%. Meanwhile, the OMD dataset,
+          processed through the same steps, yields an accuracy of around 76.3%.
+      </p>
+      <p><strong>Libraries Used</strong>: Python, Scikit-Learn, NLTK, NumPy, Pandas</p>
+      <p class="project-link"><a href="https://github.com/nargesbh/sentiment-analysis" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="travelling-salesman-problem" onclick="window.location.href='https://github.com/nargesbh/TSP-using-genetic-algorithm'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/TSP2.png" alt="Project Image" width="300">
+  <div>
+      <h1>Travelling Salesman Problem</h1>
+      <p><strong>Project Date</strong>: October 2021</p>
+      <p><em>Bio Computing Course's Project</em></p>
+      <p>The Traveling Salesperson Problem (TSP) is a classic optimization puzzle involving
+          finding the shortest route that visits a set of cities and returns to the starting
+          point. In my project, I've successfully tackled this challenge using two distinct
+          algorithms: the Genetic Algorithm and the Self-Organizing Map (SOM).
+
+          The Genetic Algorithm harnesses principles of natural selection to evolve and refine
+          potential routes over successive generations. By employing a population of routes,
+          combining them through crossover and mutation operations, and favoring shorter paths,
+          this algorithm efficiently converges towards an optimal or near-optimal solution to the TSP.
+          In contrast, the Self-Organizing Map, an artificial neural network technique, organizes
+          cities on a grid based on similarity, aiding route optimization. Your project showcases
+          how these innovative algorithms can effectively solve the TSP, demonstrating your prowess
+          in the fields of bioinformatics and computational biology.
+      </p>
+      <p><strong>Libraries Used</strong>: Python, NumPy, Matplotlib</p>
+      <p class="project-link"><a href="https://github.com/nargesbh/TSP-using-genetic-algorithm" target="_blank">Genetic Algorithm GitHub Repository</a></p>
+      <p class="project-link"><a href="https://github.com/nargesbh/TSP-using-Self-Organizing-Map" target="_blank">Self Organizing Map GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="job-assigning-to-n-agents" onclick="window.location.href='https://github.com/nargesbh/N-agents-using-Ant-Colony-Optimization'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/ant-colony.jpg" alt="Project Image" width="300">
+  <div>
+      <h1>Job Assigning to N Agents</h1> 
+      <p><strong>Project Date</strong>: November 2021</p>
+      <p><em>Bio Computing Course's Project</em></p>
+      <p>Job Assignment is the vital process of matching tasks with the most suitable individuals 
+        or resources, impacting fields like employee task distribution and logistics route planning,
+         essential for optimizing operations and productivity. In this context, <strong>Ant Colony Optimization</strong>
+         , inspired by ant foraging behavior, offers a potent algorithmic 
+         approach. Artificial ants explore solutions, leaving pheromone-like trails that guide
+          further exploration, making ACO a powerful tool for optimizing job assignments, 
+          particularly in complex, large-scale scenarios across various domains. In this Project I solved
+          Job Assignment using <strong>ACO</strong>.
+      </p>
+      <p><strong>Libraries Used</strong>: Python, NumPy, Matplotlib, Pandas</p>
+      <p class="project-link"><a href="https://github.com/nargesbh/N-agents-using-Ant-Colony-Optimization" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="cutting-stock-problem" onclick="window.location.href='https://github.com/nargesbh/Cutting-stock-problem-using-Simulated-Annealing'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/cutting-stock.png" alt="Project Image" width="300">
+  <div>
+      <h1>Cutting Stock Problem</h1> 
+      <p><strong>Project Date</strong>: December 2021</p>
+      <p><em>Bio Computing Course's Project</em></p>
+      <p>The Cutting Stock Problem is a classic optimization challenge encountered in industries
+         like manufacturing and paper production. It involves determining the most efficient way
+          to cut large rolls or sheets of material, such as metal, paper, or fabric, into smaller 
+          pieces to meet customer demand while minimizing waste. The objective is to find the optimal 
+          cutting pattern that minimizes the total number of rolls or sheets used.
+          <strong>Simulated Annealing</strong> is a versatile optimization technique inspired by the annealing 
+        process in metallurgy. Just as heated metal cools and forms a crystal structure with
+         minimal defects, Simulated Annealing iteratively explores potential solutions while 
+         gradually decreasing the "temperature" parameter, allowing the algorithm to escape 
+         local optima and converge towards a global optimum. In this project I solved this problem using <strong>Simulated Annealing</strong>.
+      </p>
+      <p><strong>Libraries Used</strong>: Python, NumPy, Matplotlib, Pandas</p>
+      <p class="project-link"><a href="https://github.com/nargesbh/Cutting-stock-problem-using-Simulated-Annealing" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="n-queens-puzzle" onclick="window.location.href='https://github.com/nargesbh/N-Queens-puzzle-using-memetic-algorithm'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/N-Queens.png" alt="Project Image" width="300">
+  <div>
+      <h1>N Queens Puzzle</h1> 
+      <p><strong>Project Date</strong>: December 2021</p>
+      <p><em>Bio Computing Course's Project</em></p>
+      <p>The N-Queens puzzle has long been a litmus test for the problem-solving capabilities
+         of both humans and machines. It challenges us to place N chess queens on an N.N chessboard
+          in such a way that no two queens threaten each other. As N grows, the puzzle's complexity
+           explodes, making it a formidable problem for traditional methods. In this exploration,
+            I delve into the world of <strong>Memetic Algorithms</strong>, a hybrid optimization technique merging 
+            genetic algorithms and local search heuristics. My journey uncovers their effectiveness 
+            in taming the N-Queens puzzle, efficiently navigating the labyrinthine solution space to
+             find elegant solutions for boards of varying sizes. 
+      </p>
+      <p><strong>Libraries Used</strong>: Python, NumPy, Matplotlib, Pandas</p>
+      <p class="project-link"><a href="https://github.com/nargesbh/N-Queens-puzzle-using-memetic-algorithm" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+
+<div class="project-container" id="maze-solver-ai" onclick="window.location.href='https://github.com/nargesbh/Multi-Flag-Maze-Q-Learning'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/maze.png" alt="Project Image" width="300">
+  <div>
+      <h1>Maze solver AI</h1> 
+      <p><strong>Project Date</strong>: November 2022</p>
+      <p><em>Artificial Intelligence Course's Project</em></p>
+      <p>This project houses a Python implementation that breathes life into <strong>Q-learning</strong>, 
+        illuminating its prowess in maze navigation. Here, an intrepid agent undertakes 
+        the challenge of collecting flags amidst a maze of unknowns, deftly circumventing 
+        obstacles through a series of learned actions. Through each epoch, it evolves from
+         an exploration-driven novice to a strategic explorer, adapting its decisions based 
+         on an evolving Q-table. 
+      </p>
+      <p><strong>Libraries Used</strong>: Python, NumPy, NetworkX, Matplotlib</p>
+      <p class="project-link"><a href="https://github.com/nargesbh/Multi-Flag-Maze-Q-Learning" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="connect-four-game-ai" onclick="window.location.href='https://github.com/nargesbh/AI-Enhanced-Connect-Four-Game'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/connect-four.png" alt="Project Image" width="300">
+  <div>
+      <h1>Connect Four Game AI</h1> 
+      <p><strong>Project Date</strong>: January 2023</p>
+      <p><em>Artificial Intelligence Course's Project</em></p>
+      <p>Connect Four comes to life in this project, offering a dynamic gaming experience 
+        that blends tradition with innovation. The goal is simple: connect four of your chips
+         in a row, but the journey is anything but. Beyond the classic two-player showdown,
+          you'll find yourself facing off against two formidable AI opponents: the traditional
+           Minimax with Alpha-Beta Pruning and the modern Neural Network AI.
+      </p>
+      <p><strong>Libraries Used</strong>: Python, NumPy, Pygame, TensorFlow</p>
+      <p class="project-link"><a href="https://github.com/nargesbh/AI-Enhanced-Connect-Four-Game" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+
+<div class="project-container" id="assembler-and-disassembler" onclick="window.location.href='https://github.com/nargesbh/Assembly-NASM-x86'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/Assembly.png" alt="Project Image" width="300">
+  <div>
+      <h1>Assembler and Disassembler</h1> 
+      <p><strong>Project Date</strong>: July 2022</p>
+      <p><em>Assembly Course's Projects</em></p>
+      <p>In these projects I coded assembler and Disassembler with Python and Assembly (NASM-x86) language.
+        The implementations using Python were mini-projects of Assembly course and the ones with Assembly were
+        the course's final projects.
+      </p>
+      <p><strong>Libraries Used</strong>: Python, NumPy, Pygame, TensorFlow</p>
+      <p class="project-link"><a href="https://github.com/nargesbh/Assembly-NASM-x86" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="image-processing-using-assembly" onclick="window.location.href='https://github.com/nargesbh/Editting-photos-Using-Assembly'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/assembly-2.png" alt="Project Image" width="300">
+  <div>
+      <h1>Image processing using Assembly</h1> 
+      <p><strong>Project Date</strong>: July 2022</p>
+      <p><em>Assembly Course's Mini-Project</em></p>
+      <p>In this mini-project I designed an application using Assembly language that could make some changes to input photos.
+      </p>
+      <p><strong>Libraries Used</strong>: Python, NumPy, Pygame, TensorFlow</p>
+      <p class="project-link"><a href="https://github.com/nargesbh/Editting-photos-Using-Assembly" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="Neural-Networks-From-Scartch" onclick="window.location.href='https://github.com/nargesbh/Neural-Networks-from-scratch'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/1-NN.png" alt="Project Image" width="300">
+  <div>
+      <h1>Neural Networks From Scratch</h1> 
+      <p><strong>Project Date</strong>: December 2021</p>
+      <p><em>Bio Computing Course's Project</em></p>
+      <p>This project is a comprehensive exploration of neural networks from scratch, offering a 
+        hands-on learning experience for both beginners and enthusiasts in the field of deep learning.
+         With a focus on fundamental concepts, the project covers topics like dataset generation, 
+         neural network architecture design, activation functions, optimization techniques, 
+         and experimentation. By running code implementations and experiments, users can gain 
+         insights into the critical factors affecting neural network performance. This project provides
+           a practical and educational platform to delve deeper into the world of artificial
+            neural networks.
+      </p>
+      <p><strong>Libraries Used</strong>: Python, NumPy, Matplotlib, scikit-learn</p>
+      <p class="project-link"><a href="https://github.com/nargesbh/Neural-Networks-from-scratch" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="Snake-Game" onclick="window.location.href='https://github.com/nargesbh/Snake-game'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/Snake_Game.png" alt="Project Image" width="300">
+  <div>
+      <h1>Snake Game</h1> 
+      <p><strong>Project Date</strong>: August 2021</p>
+      <p>Experience the nostalgia of the classic Snake game brought to life in Python with my
+         customizable Snake Game. Navigate through the vibrant world of day and night modes, 
+         where you can choose between a sleek white screen with a pink snake and yellow fruit or 
+         a thrilling black screen with a green snake and red fruit. With the option to toggle wall 
+         collision on or off, challenge your reflexes as you control the snake's direction, collect
+          fruits to increase your score, and strive to avoid running into walls or your snake's own body. 
+          It's a timeless game with a modern twist, offering endless hours of fun and excitement 
+          for players of all ages.
+      </p>
+      <p><strong>Libraries Used</strong>: Python, Pygame</p>
+      <p class="project-link"><a href="https://github.com/nargesbh/Snake-game" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="Semantic_Tableaux" onclick="window.location.href='https://github.com/nargesbh/Semantic-Tableaux'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/semantic.png" alt="Project Image" width="300">
+  <div>
+      <h1>Semantic Tableaux</h1> 
+      <p><strong>Project Date</strong>: April 2020</p>
+      <p><em>Logic Course's Project</em></p>
+      <p>Introducing my Semantic Tableaux Solver—a computational tool 
+        meticulously crafted for exploring the intricacies of propositional and 
+        predicate logic. This Python-based software is meticulously engineered to 
+        streamline the construction and examination of semantic tableaux, a 
+        fundamental technique in formal logic analysis. Tailored to meet the needs 
+        of students, researchers, and professionals in the field, our solver efficiently
+         manages complex logical formulas, adeptly handles negations, disjunctions, 
+         and implications, and offers guided insights into the assessment of logical
+          statement validity.
+      </p>
+      <p class="project-link"><a href="https://github.com/nargesbh/Semantic-Tableaux" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+
+<div class="project-container" id="MLP" onclick="window.location.href='https://github.com/nargesbh/Multi-Layer-Perceptrone'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/mlp-scratch.png" alt="Project Image" width="300">
+  <div>
+      <h1>MLP From Scratch</h1> 
+      <p><strong>Project Date</strong>: December 2021</p>
+      <p><em>Bio Computing Course's Project</em></p>
+      <p>In this project, I've embarked on an exciting journey by implementing a
+         Multi-Layer Perceptron (MLP) entirely from scratch. This MLP, designed for
+         classification tasks, is handcrafted in Python, with each component meticulously
+          constructed. From the MLP class itself to the intricacies of forward and 
+          backward propagation, and even the training process, every aspect has been
+           crafted from the ground up. In this weblog post, I'll take you through
+            the fascinating process of building an MLP from scratch and showcase its 
+            power in action on a specific dataset. 
+      </p>
+      <p class="project-link"><a href="https://github.com/nargesbh/Multi-Layer-Perceptrone" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="Scheduling_Algorithms" onclick="window.location.href='https://github.com/nargesbh/principals-of-computer-systems'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/scheduling.png" alt="Project Image" width="300">
+  <div>
+      <h1>Scheduling Algorithms</h1> 
+      <p><strong>Project Date</strong>: December 2021</p>
+      <p><em>Operating systems' Course's Project</em></p>
+      <p>Explore the intricate world of operating system scheduling algorithms in this
+        enlightening project for the Principles of Computer Systems course. Delve into
+         the core concepts of process management, CPU allocation, and scheduling 
+         strategies, while comparing and implementing two pivotal algorithms: Shortest
+          Job First (SRTF) and Round Robin (RR). Gain a deep understanding of the goals, 
+          key terms, and the intricate dance between preemptive and non-preemptive
+           scheduling. Discover how these algorithms optimize CPU utilization, ensure
+            fairness, and minimize execution times. Join us on this journey through
+             the heart of operating systems, guided by Narges Babaahmadi's insightful 
+             exploration.
+      </p>
+      <p class="project-link"><a href="https://github.com/nargesbh/principals-of-computer-systems" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="Graph_traversal" onclick="window.location.href='https://github.com/nargesbh/Graph-traversal-methods'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/Graph.png" alt="Project Image" width="300">
+  <div>
+      <h1>Graph Traversal Methods</h1> 
+      <p><strong>Project Date</strong>: April 2020</p>
+      <p><em>Combinatorics Course's Project</em></p>
+      <p>Delve into the realm of advanced graph algorithms with our meticulously crafted C++ 
+        implementation of Breadth-First Search and Depth-First Search. 
+        This project serves as an exemplary showcase of these essential algorithms, offering 
+        invaluable tools for the traversal and analysis of complex tree and graph data structures.
+           Embark on a journey through the intricacies of BFS and DFS, foundational techniques
+            with expansive utility in the domains of computer science.
+      </p>
+      <p class="project-link"><a href="https://github.com/nargesbh/Graph-traversal-methods" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="MorisManoBasicComputer" onclick="window.location.href='https://github.com/nargesbh/Basic-computer/'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/moris.png" alt="Project Image" width="300">
+  <div>
+      <h1>Moris Mano Basic Computer</h1> 
+      <p><strong>Project Date</strong>: April 2021</p>
+      <p><em>Computer Systems Course's Project</em></p>
+      <p>My CPU Project represents a significant endeavor in the domain of computer organization.
+         I have meticulously crafted a fully operational Central Processing Unit (CPU), incorporating
+          a sophisticated Arithmetic Logic Unit (ALU) and a suite of critical hardware components. 
+          Notable features include a memory unit housing 4096 words, each comprising 16 bits, 
+          nine registers, seven flip-flops, specialized decoders, a 16-bit common data bus, 
+          and an intricate network of control logic gates. This project achieved a perfect 
+          score in my Computer Organization course, utilizing Logisim, a powerful digital 
+          logic simulator. Explore the inner workings, delve into intricacies, and witness the
+           art of computational science at its pinnacle.
+      </p>
+      <p class="project-link"><a href="https://github.com/nargesbh/Basic-computer/" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="House_Price_Prediction" onclick="window.location.href='https://github.com/nargesbh/house-price-prediction/'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/price-pred.jpg" alt="Project Image" width="300">
+  <div>
+      <h1>House Price Prediction</h1> 
+      <p><strong>Project Date</strong>: April 2021</p>
+      <p><em>Statistical Methods' Course's Project</em></p>
+      <p>In my house price prediction project, I harnessed the power of data and machine learning to 
+        estimate house prices accurately. I handled data preprocessing challenges, explored data visually,
+         and experimented with various machine learning models, ultimately finding that the Decision 
+         Tree Regressor excelled. This project showcases my passion for machine learning and predictive
+          modeling, offering valuable insights to fellow enthusiasts.
+      </p>
+      <p class="project-link"><a href="https://github.com/nargesbh/house-price-prediction/" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="Twitter" onclick="window.location.href='https://github.com/nargesbh/Twitter/'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/twitter.png" alt="Project Image" width="300">
+  <div>
+      <h1>Simple Twitter</h1> 
+      <p><strong>Project Date</strong>: April 2020</p>
+      <p><em>Advanced Programming Course's Project</em></p>
+      <p>This Project is a dynamic command-line application developed in C++ that mirrors the
+         fundamental functionalities of the renowned social media platform, Twitter. It enables users
+          to register accounts, log in securely, compose and post tweets, express appreciation through
+           likes, engage in discussions via comments, and explore the latest updates. Utilizing a basic 
+           text-based database, the project efficiently manages user data, tweets, and comments, ensuring
+            data security while providing an authentic social media experience in a console environment.
+             With its range of features and user-friendly interface, the Twitter Project offers a 
+             captivating glimpse into the world of microblogging and database management within a simple 
+             yet engaging application.
+      </p>
+      <p class="project-link"><a href="https://github.com/nargesbh/Twitter/" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+<div class="project-container" id="Titanic_Survival_Prediction" onclick="window.location.href='https://github.com/nargesbh/Titanic-Survivals/'">
+  <img src="https://raw.githubusercontent.com/nargesbh/nargesbh.github.io/master/_pages/Titanic.jpg" alt="Project Image" width="300">
+  <div>
+      <h1>Titanic Survival Prediction</h1> 
+      <p><strong>Project Date</strong>: December 2022</p>
+      <p><em>Deep Learning Course's Project</em></p>
+      <p>This project offers a Python-based solution for predicting Titanic passenger survival using 
+        logistic regression with L2 regularization. It covers data preprocessing, exploratory data analysis,
+         feature engineering, and model training. Users can follow the provided Jupyter Notebook to build
+         their own prediction model, and the trained model is applied to the test dataset for submission.
+          This project provides valuable insights into data science and machine learning techniques for
+           similar tasks.
+      </p>
+      <p class="project-link"><a href="https://github.com/nargesbh/Titanic-Survivals/" target="_blank">GitHub Repository</a></p>
+  </div>
+</div>
+
+
+ </body>
+ </html>

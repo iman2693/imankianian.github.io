@@ -1,0 +1,37 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+
+    <h3 class="archive__item-title" itemprop="headline">
+        {{ post.title }} [<a href="{{ base_path }}{{ post.url }}" rel="permalink">Read More</a>]
+    </h3>
+
+      <p class="page__meta">
+        Associated with {{post.venue}}, {{ post.date | date: '%Y' }}
+      </p>
+    {% if post.prlang %}
+    <p class="page__meta">
+        Programming Language: {{post.prlang}}
+    </p>
+    {% endif %}
+    <p class="page__meta">
+      {% if post.github %}
+        <a style="color: #52adc8" href=" {{ post.github }} "><i class="fab fa-fw fa-github fa-2x" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.paper %}
+        <a style="color: #52adc8" href=" {{ post.paper }} "><i class="fas fa-fw fa-file fa-2x" aria-hidden="true"></i></a>
+      {% endif %}
+    </p>
+
+  </article>
+</div>
