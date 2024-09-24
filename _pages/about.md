@@ -14,7 +14,7 @@ I am Iman Kianian, a computer science researcher with a focus on machine learnin
 
 I have also gained experience in other areas of machine learning and natural language processing, excelling in advanced courses with high grades. I am looking forward to pursuing my studies for a PhD degree and publishing several papers in prestigious conferences and journals like CVPR, ICCV, and NeurIPS. My work continues to explore new challenges and innovations in the AI field.
 
-[[Scholar]](https://scholar.google.com/citations?user=NWBdlBkAAAAJ&hl=en)  [[Projects]](https://Github.com/iman2693)  [[Linkedin]](https://www.linkedin.com/in/imankianian/)  [[Printable CV]](https://drive.google.com/file/d/1mrxKjNJAC1P6QTZFB4ggtlgli4jzDxsX/view?usp=sharing)  [[Transcript]](https://drive.google.com/file/d/1-eUgf3i0W60qKh1bX4kpIFeVcXr-R1kP/view?usp=sharing)
+[[Scholar]](https://scholar.google.com/citations?user=NWBdlBkAAAAJ&hl=en)  [[Projects]](https://Github.com/iman2693)  [[Linkedin]](https://www.linkedin.com/in/imankianian/)  [[Printable CV]](https://drive.google.com/file/d/1EkeR0sNAoisDQz4V8uXbTztuUZUpLX2b/view?usp=drive_link)  [[Transcript]](https://drive.google.com/file/d/1-eUgf3i0W60qKh1bX4kpIFeVcXr-R1kP/view?usp=sharing)
 
 
 <hr>
