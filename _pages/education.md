@@ -35,18 +35,7 @@ GPA: 18.53 out of 20.00 (3.82 out of 4.00)
 <h3>Thesis: Brain Age Estimation Using deep neural networks and MR images</h3>
 <p style="text-align:justify;">Research in brain age estimation is crucial for a multitude of reasons, encompassing early detection of neurological disorders like Alzheimer's and Parkinson's, the advancement of aging-related research, and personalized healthcare. In this thesis some advanced approaches such as relational learning are taken and the results have been reported. However, working on models for the prediction of ages is not finished. I will continue to achieve better results in the following months. </p>
 
-<h3>
-Some Selected Courses:
-</h3>
 
-
-|                Course Name                 |      Teacher      |  Grade (out of 20.00) |
-|    :----------:|:-------------:|:------:|
-| Machine Learning |  [Dr. Hedieh Sajedi](https://scholar.google.com/citations?user=YHjV73oAAAAJ&hl=en) / [Dr. Bagher Baba Ali](https://dblp.org/pid/87/9176.html) | 19.90 |
-| Natural Language Processing |    [Dr. Bagher Baba Ali](https://dblp.org/pid/87/9176.html)   |   19.50 |
-| Digital Image Processing and Computer Vision | [Dr. Hedieh Sajedi](https://scholar.google.com/citations?user=YHjV73oAAAAJ&hl=en) |    20.00 |
-
-[Download full transcript](https://imankianian.ir/resources/Master's Transcript.pdf)
 
 
 ------------------------
@@ -64,11 +53,27 @@ Overall GPA: 18.64 out of 20.00 (3.84 out of 4.00)
 </h3>
 <h3>Final Project: Face Detection and Recognition in real-time videos and cameras</h3>
 <p style="text-align:justify;">Face recognition is a critical task in computer vision and artificial intelligence. It involves the identification and verification of individuals based on their facial features. The importance of this technology cannot be overstated, as it has a wide range of applications, from enhancing security systems and enabling secure access control to improving user experiences in various domains. With the advent of deep learning techniques, face recognition has become more accessible and accurate than ever before. Convolutional Neural Networks (CNNs) and deep learning models have revolutionized the field, allowing for robust and efficient face detection and identification. These advancements have paved the way for innovative biometrics, surveillance, and personalization applications, making face recognition an essential component of modern AI systems. In my bachelor's thesis, I proposed an application for attendance of employees and students. I used state-of-the-art methods like FaceNet, MTCNN, RetinaFace, Yolo, and some tracking algorithms to achieve this purpose. I finally succeeded in submitting my proposal as an innovation at the University of Guilan and it was accepted.</p>
+
+
+
 <h3>
-Some Selected Courses:
+Transcript
 </h3>
 
 
+<h4>
+Some Selected Courses During Master's Degree:
+</h4>
+
+|                Course Name                 |      Teacher      |  Grade (out of 20.00) |
+|    :----------:|:-------------:|:------:|
+| Machine Learning |  [Dr. Hedieh Sajedi](https://scholar.google.com/citations?user=YHjV73oAAAAJ&hl=en) / [Dr. Bagher Baba Ali](https://dblp.org/pid/87/9176.html) | 19.90 |
+| Natural Language Processing |    [Dr. Bagher Baba Ali](https://dblp.org/pid/87/9176.html)   |   19.50 |
+| Digital Image Processing and Computer Vision | [Dr. Hedieh Sajedi](https://scholar.google.com/citations?user=YHjV73oAAAAJ&hl=en) |    20.00 |
+
+<h4>
+Some Selected Courses During Bachelor's Degree:
+</h4>
 
 |                Course Name                 |      Teacher      |  Grade (out of 20.00) |
 |    :----------:|:-------------:|:------:|
