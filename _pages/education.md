@@ -57,12 +57,12 @@ Overall GPA: 18.64 out of 20.00 (3.84 out of 4.00), Last Two Years = 19.22
 
 
 <h3>
-Transcript
+Some Selected Courses
 </h3>
 
 
 <h4>
-Some Selected Courses During Master's Degree:
+Some Selected Courses During Master's Studies:
 </h4>
 
 |                Course Name                 |      Teacher      |  Grade (out of 20.00) |
@@ -72,7 +72,7 @@ Some Selected Courses During Master's Degree:
 | Digital Image Processing and Computer Vision | [Dr. Hedieh Sajedi](https://scholar.google.com/citations?user=YHjV73oAAAAJ&hl=en) |    20.00 |
 
 <h4>
-Some Selected Courses During Bachelor's Degree:
+Some Selected Courses During Bachelor's Studies:
 </h4>
 
 |                Course Name                 |      Teacher      |  Grade (out of 20.00) |
