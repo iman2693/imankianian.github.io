@@ -33,7 +33,7 @@ GPA: 18.53 out of 20.00 (3.82 out of 4.00)
 </h4>
 
 <h3>Thesis: Brain Age Estimation Using deep neural networks and MR images</h3>
-<p style="text-align:justify;">Defended on 8th September of 2024 with a highest grade A+.</p>
+<p style="text-align:justify;">Defended on 8th September 2024 with the highest grade A+.</p>
 
 
 
