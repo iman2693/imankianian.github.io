@@ -33,7 +33,7 @@ GPA: 18.53 out of 20.00 (3.82 out of 4.00)
 </h3>
 
 <h3>Thesis: Brain Age Estimation Using deep neural networks and MR images</h3>
-<p style="text-align:justify;">Research in brain age estimation is crucial for a multitude of reasons, encompassing early detection of neurological disorders like Alzheimer's and Parkinson's, the advancement of aging-related research, and personalized healthcare. In this thesis some advanced approaches such as relational learning are taken and the results have been reported. However, working on models for the prediction of ages is not finished. I will continue to achieve better results in the following months. </p>
+<p style="text-align:justify;">Defended on 8th September of 2024 with a highest grade A+.</p>
 
 
 
@@ -49,10 +49,10 @@ Major GPA: 19.18 out of 20.00 (3.97 out of 4.00)
 </h3>
 
 <h3>
-Overall GPA: 18.64 out of 20.00 (3.84 out of 4.00)
+Overall GPA: 18.64 out of 20.00 (3.84 out of 4.00), Last Two Years = 19.22
 </h3>
 <h3>Final Project: Face Detection and Recognition in real-time videos and cameras</h3>
-<p style="text-align:justify;">Face recognition is a critical task in computer vision and artificial intelligence. It involves the identification and verification of individuals based on their facial features. The importance of this technology cannot be overstated, as it has a wide range of applications, from enhancing security systems and enabling secure access control to improving user experiences in various domains. With the advent of deep learning techniques, face recognition has become more accessible and accurate than ever before. Convolutional Neural Networks (CNNs) and deep learning models have revolutionized the field, allowing for robust and efficient face detection and identification. These advancements have paved the way for innovative biometrics, surveillance, and personalization applications, making face recognition an essential component of modern AI systems. In my bachelor's thesis, I proposed an application for attendance of employees and students. I used state-of-the-art methods like FaceNet, MTCNN, RetinaFace, Yolo, and some tracking algorithms to achieve this purpose. I finally succeeded in submitting my proposal as an innovation at the University of Guilan and it was accepted.</p>
+
 
 
 
