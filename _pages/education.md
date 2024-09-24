@@ -49,7 +49,7 @@ Major GPA: 19.18 out of 20.00 (3.97 out of 4.00)
 </h4>
 
 <h4>
-Overall GPA: 18.64 out of 20.00 (3.84 out of 4.00), Last Two Years = 19.22
+Overall GPA: 18.64 out of 20.00 (3.84 out of 4.00), Last Two Years = 19.22 (4.00 out of 4.00)
 </h4>
 <h3>Final Project: Face Detection and Recognition in real-time videos and cameras</h3>
 
