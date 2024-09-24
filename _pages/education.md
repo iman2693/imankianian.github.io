@@ -25,7 +25,7 @@ author_profile: true
 
 
 <h2>
-M.Sc. in Computer Science - Artificial Intelligence at the University of Tehran              (2021 - Present)
+M.Sc. in Computer Science - Artificial Intelligence at the <a href="https://ut.ac.ir/en">University of Tehran</a>              (2021 - Present)
 </h2>
 
 <h3>
@@ -41,7 +41,7 @@ GPA: 18.53 out of 20.00 (3.82 out of 4.00)
 ------------------------
 
 <h2>
-B.Sc. in Computer Science at the University of Guilan              (2017 - 2021)
+B.Sc. in Computer Science at the <a href="https://english.guilan.ac.ir/">University of Guilan</a>              (2017 - 2021)
 </h2>
 
 <h3>
